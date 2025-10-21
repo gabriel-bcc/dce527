@@ -84,7 +84,7 @@ Como este projeto é um MVP estático (frontend puro), não há necessidade de c
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/gabriel-bcc/dce527/edit/main/Trabalhos/neobank
+    git clone https://github.com/gabriel-bcc/dce527/tree/main/Trabalhos/neobank
     ```
 
 2.  **Abra o projeto:**
